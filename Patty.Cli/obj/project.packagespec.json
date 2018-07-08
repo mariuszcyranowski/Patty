@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/mariusz/RiderProjects/PattyCore/Patty.Cli/Patty.Cli.csproj",
+    "projectName": "Patty.Cli",
+    "projectPath": "/home/mariusz/RiderProjects/PattyCore/Patty.Cli/Patty.Cli.csproj",
+    "outputPath": "/home/mariusz/RiderProjects/PattyCore/Patty.Cli/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/mariusz/RiderProjects/PattyCore/Patty/Patty.csproj": {
+            "projectPath": "/home/mariusz/RiderProjects/PattyCore/Patty/Patty.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.Extensions.CommandLineUtils": {
+          "target": "Package",
+          "version": "[1.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

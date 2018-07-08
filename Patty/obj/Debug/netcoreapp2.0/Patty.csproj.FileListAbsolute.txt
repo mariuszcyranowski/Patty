@@ -1,0 +1,8 @@
+/home/mariusz/RiderProjects/PattyCore/Patty/bin/Debug/netcoreapp2.0/Patty.deps.json
+/home/mariusz/RiderProjects/PattyCore/Patty/bin/Debug/netcoreapp2.0/Patty.dll
+/home/mariusz/RiderProjects/PattyCore/Patty/bin/Debug/netcoreapp2.0/Patty.pdb
+/home/mariusz/RiderProjects/PattyCore/Patty/obj/Debug/netcoreapp2.0/Patty.csproj.CoreCompileInputs.cache
+/home/mariusz/RiderProjects/PattyCore/Patty/obj/Debug/netcoreapp2.0/Patty.AssemblyInfoInputs.cache
+/home/mariusz/RiderProjects/PattyCore/Patty/obj/Debug/netcoreapp2.0/Patty.AssemblyInfo.cs
+/home/mariusz/RiderProjects/PattyCore/Patty/obj/Debug/netcoreapp2.0/Patty.dll
+/home/mariusz/RiderProjects/PattyCore/Patty/obj/Debug/netcoreapp2.0/Patty.pdb

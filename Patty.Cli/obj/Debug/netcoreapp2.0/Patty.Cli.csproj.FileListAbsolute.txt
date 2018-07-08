@@ -1,0 +1,12 @@
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/bin/Debug/netcoreapp2.0/Patty.Cli.deps.json
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/bin/Debug/netcoreapp2.0/Patty.Cli.runtimeconfig.json
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/bin/Debug/netcoreapp2.0/Patty.Cli.runtimeconfig.dev.json
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/bin/Debug/netcoreapp2.0/Patty.Cli.dll
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/bin/Debug/netcoreapp2.0/Patty.Cli.pdb
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/obj/Debug/netcoreapp2.0/Patty.Cli.csproj.CoreCompileInputs.cache
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/obj/Debug/netcoreapp2.0/Patty.Cli.AssemblyInfoInputs.cache
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/obj/Debug/netcoreapp2.0/Patty.Cli.AssemblyInfo.cs
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/obj/Debug/netcoreapp2.0/Patty.Cli.dll
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/obj/Debug/netcoreapp2.0/Patty.Cli.pdb
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/bin/Debug/netcoreapp2.0/Patty.dll
+/home/mariusz/RiderProjects/PattyCore/Patty.Cli/bin/Debug/netcoreapp2.0/Patty.pdb
